@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\metod\metod\bin\Debug\metod.exe.config
+C:\Users\HP\Desktop\metod\metod\bin\Debug\metod.exe
+C:\Users\HP\Desktop\metod\metod\bin\Debug\metod.pdb
+C:\Users\HP\Desktop\metod\metod\obj\Debug\metod.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\metod\metod\obj\Debug\metod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\metod\metod\obj\Debug\metod.exe
+C:\Users\HP\Desktop\metod\metod\obj\Debug\metod.pdb
